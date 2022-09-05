@@ -7,7 +7,7 @@ display_url: https://resonant-bubblegum-cacbb9.netlify.app
 collections:
   - name: pages
     label: Pages
-    folder: "docs"
+    folder: "public"
     create: true
     slug: "{{slug}}"
     editor:
